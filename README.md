@@ -1,6 +1,6 @@
 # Mobile Applications
 
-During the fourth semester of the 'Mobile Applications' course, our primary emphasis was on coding applications for smartphones and different portable gadgets, like Android and iOS. Among a plethora of subjects, we addressed the Sieve of Eratosthenes algorithm, fabricated a respiration timer application, and engineered a calculator application. 
+During the fourth semester of the 'Mobile Applications' course, our primary emphasis was on coding applications for smartphones and different portable gadgets, like Android and iOS. Among a plethora of subjects, we addressed the Sieve of Eratosthenes algorithm, fabricated a respiration timer application, and engineered a calculator application. The applications were developed in Expo, a development platform that provides tools and services to make it easier to create, test, and publish mobile apps. 
 
 ## Breathing App 
 
